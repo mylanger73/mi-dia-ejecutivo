@@ -1,0 +1,26 @@
+{
+  "name": "Mi Día Ejecutivo",
+  "short_name": "Mi Día",
+  "description": "Anota tus pendientes, elige tus 3 prioridades y cierra el día.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1e3a5f",
+  "background_color": "#ffffff",
+  "lang": "es",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
